@@ -1,39 +1,114 @@
-# CS691-Spring2025-Team10
-Team Members:
-Amulya Thatha
-Nikhileswar Dusanapudi
-Nandini Vadlamudi
-Chandu Mandalapu
-Proposal: AI Powered developer learning platform
-Problem Statement and Hypothesis:
-In most of the cases many developers, especially beginners who get newly introduced to the coding, struggle with problem solving. Most of the available learning platforms or the AI tools provide the direct solutions instead of offering the structured learning guidance. And this is where our idea comes from. 
-We plan to develop a platform where budding developers can sharpen their problem-solving skills by seeking the answers themselves with a series of hints that guides them through the process. We plan to achieve this by integrating open AI, this system ensures that users receive assistance without being directly given the answers, generating critical thinking and deeper understanding of the concept. Our ultimate goal is to improve the coding skills of our target users in a more interactive and engaging way. 
-Technologies we plan to use: 
-Front end:
-Figma – for wireframe design
-React.Js- responsive UI framework
-Css – styling
-Back end: 
-Node.js – API and server management
-MongoDB – for problem and user data management
-AI integration:
-Open AI – for adaptive hint generation
+# Pace University Capstone Project Team 10
+# **SmartPrompt AI: Smarter Queries, Sharper Answers**
+# Problem Statement
+Budding developers and students often struggle with finding the precise response for their programming related queries. Most of the existing platforms either provide direct solutions witout any guidance or lack the ability to debug the code efficiently. This is where SmartPromptAI comes to use, our platform aims to generate a step-by-step hint based AI search allowing users to improve thier problem solving skills. 
+## **Overview**
+_SmartPrompt AI_ is an advanced search platfrom to improve the user interaction with ChatGPT. Instead of generating direct responses our system elevates the user experience by refining the user prompts and filtering answers through three structured stages. Our platfrom aims to provide more precise and contextual results aiding the user in learning what they are searching instead of spoon feeding the answers. 
 
-Prototype Screens:
-This is how we visualized our platform’s structure to be, 
-Home page:
-Welcome message with introduction to the platform
-User Signup/login
-Challenge page:
-Split screen view with:
-o	Problem statement and constraints
-o	Code editor for users to write and test solutions
-o	AI powered hint system with three levels:
-	General Guidance
-	Code structure help
-	Partial code snippet
-User Profile and Progress tracking:
-Dashboard displaying completed challenges and achievements
-Streaks and badges for motivation
+## **Key Features**
+### **Basic search**
+* This stage provides quick and filtered results for general queries
+* Optimized for speed and accuracy
+### **Developer search**
+* This stage assists developers by AI-generated coding hints.
+* Highlights errors and provides explanations instead of full solutions.
+### **AI insights**
+* Final stage where user can access the full solution for the query.
+* Uses Open AI capabilities for advanced AI driven insights.
 
-In conclusion, we plan to design an AI-powered developer learning platform with a unique approach to programming education. With an interactive UI and AI integration, our goal is to make it more engaging which in turn improves knowledge retention among the users.  
+<h2>Tech Stack & Tools Used</h2>
+
+<h3>Frontend</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"><br>
+      <b>React.js</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80"><br>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"><br>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"><br>
+      <b>CSS3</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
+
+<h3>Backend</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"><br>
+      <b>Express.js</b>
+    </td>
+  </tr>
+</table>
+
+<h3>Database</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"><br>
+      <b>MongoDB</b>
+    </td>
+  </tr>
+</table>
+
+<h3>APIs</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsM79GI0kT5O-hdV33M_PsEF_x3_E_7UUCw&s" width="80"><br>
+      <b>OpenAI API</b>
+    </td>
+  </tr>
+</table>
+
+<h3>Development & Testing Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"><br>
+      <b>Postman (API Testing)</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"><br>
+      <b>Git (Version Control)</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"><br>
+      <b>GitHub (Repository Hosting)</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"><br>
+      <b>Visual Studio Code (Code Editor)</b>
+    </td>
+  </tr>
+</table>
+
+
+
+## **How it Works:**
+1. User enters a query in the search box
+1. AI processes the input and determines the appropriate search stage
+1. Our system refines the prompt and displays a structured response from Open AI
+1. User receives conceputal, stage-filtered results instead of direct answers. 
+
+## **Future Enhancements**
+* Integrate more AI models for deeper insights
+* Performance optimization and faster Query Processing
+
