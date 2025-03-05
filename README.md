@@ -1,21 +1,9 @@
 # Pace University Capstone Project Team 10
-# **SmartPrompt AI: Smarter Queries, Sharper Answers**
-# Problem Statement
-Budding developers and students often struggle with finding the precise response for their programming related queries. Most of the existing platforms either provide direct solutions witout any guidance or lack the ability to debug the code efficiently. This is where SmartPromptAI comes to use, our platform aims to generate a step-by-step hint based AI search allowing users to improve thier problem solving skills. 
+# **StellarSpeech: Real-Time Voice Translator**
 ## **Overview**
-_SmartPrompt AI_ is an advanced search platfrom to improve the user interaction with ChatGPT. Instead of generating direct responses our system elevates the user experience by refining the user prompts and filtering answers through three structured stages. Our platfrom aims to provide more precise and contextual results aiding the user in learning what they are searching instead of spoon feeding the answers. 
-
-## **Key Features**
-### **Basic search**
-* This stage provides quick and filtered results for general queries
-* Optimized for speed and accuracy
-### **Developer search**
-* This stage assists developers by AI-generated coding hints.
-* Highlights errors and provides explanations instead of full solutions.
-### **AI insights**
-* Final stage where user can access the full solution for the query.
-* Uses Open AI capabilities for advanced AI driven insights.
-
+StellarSpeech is a real-time voice translation application, using AI-powered speech-to-text(STT), machine translation(MT) and text-to-speech(TTS) models to generate seemless language translation. The application itself is built using MERN stack with AI integration.
+##**Problem Statement**
+All the present day voice translation tools available in the market often lose the original speakers tone, pitch and emotional context, this ultimately results in a robotic and unnatural output. This effects the quality of the communication especially when the speaker is emotional or expressive. Our concept aims to solve this problem by preserving the speaker's original tone and emotional cues in the translated voice output. 
 <h2>Tech Stack & Tools Used</h2>
 
 <h3>Frontend</h3>
@@ -102,13 +90,12 @@ _SmartPrompt AI_ is an advanced search platfrom to improve the user interaction 
 
 
 
-## **How it Works:**
-1. User enters a query in the search box
-1. AI processes the input and determines the appropriate search stage
-1. Our system refines the prompt and displays a structured response from Open AI
-1. User receives conceputal, stage-filtered results instead of direct answers. 
+## **Features**
+1. Real-time speech-to-text(STT) using datasets like CommonVoice, LibriSpeech
+2. Machine Translation(MT) between multiple languages using OPUS datasets
+3. Text-to-Speech(TTS) for audio output using LJSpeech and VCTK while preserving original speaker's tone.
+4. User authentication for saving preferences
+5. Settings and customization for theme, speed control and audio preferences.
+6. History and Playback
 
-## **Future Enhancements**
-* Integrate more AI models for deeper insights
-* Performance optimization and faster Query Processing
 
