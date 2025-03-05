@@ -2,7 +2,8 @@
 # **StellarSpeech: Real-Time Voice Translator**
 ## **Overview**
 StellarSpeech is a real-time voice translation application, using AI-powered speech-to-text(STT), machine translation(MT) and text-to-speech(TTS) models to generate seemless language translation. The application itself is built using MERN stack with AI integration.
-##**Problem Statement**
+
+## **Problem Statement**
 All the present day voice translation tools available in the market often lose the original speakers tone, pitch and emotional context, this ultimately results in a robotic and unnatural output. This effects the quality of the communication especially when the speaker is emotional or expressive. Our concept aims to solve this problem by preserving the speaker's original tone and emotional cues in the translated voice output. 
 <h2>Tech Stack & Tools Used</h2>
 
