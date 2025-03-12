@@ -7,7 +7,7 @@ StellarSpeech is a real-time voice translation application, using AI-powered spe
 All the present day voice translation tools available in the market often lose the original speakers tone, pitch and emotional context, this ultimately results in a robotic and unnatural output. This effects the quality of the communication especially when the speaker is emotional or expressive. Our concept aims to solve this problem by preserving the speaker's original tone and emotional cues in the translated voice output. 
 <h2>Tech Stack & Tools Used</h2>
 
-<h3>Frontend</h3>
+### Frontend
 <table>
   <tr>
     <td align="center">
@@ -33,7 +33,7 @@ All the present day voice translation tools available in the market often lose t
   </tr>
 </table>
 
-<h3>Backend</h3>
+### Backend
 <table>
   <tr>
     <td align="center">
@@ -44,43 +44,69 @@ All the present day voice translation tools available in the market often lose t
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"><br>
       <b>Express.js</b>
     </td>
-  </tr>
-</table>
-
-<h3>Database</h3>
-<table>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"><br>
       <b>MongoDB</b>
     </td>
-  </tr>
-</table>
-
-<h3>APIs</h3>
-<table>
-  <tr>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsM79GI0kT5O-hdV33M_PsEF_x3_E_7UUCw&s" width="80"><br>
-      <b>OpenAI API</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80"><br>
+      <b>WebSockets</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80"><br>
+      <b>Firebase</b>
     </td>
   </tr>
 </table>
 
-<h3>Development & Testing Tools</h3>
+### AI/ML & Speech Processing
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"><br>
-      <b>Postman (API Testing)</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"><br>
+      <b>Python</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"><br>
-      <b>Git (Version Control)</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="80"><br>
+      <b>PyTorch</b>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80"><br>
+      <b>TensorFlow</b>
+    </td>
+    <td align="center">
+      <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" width="80"><br>
+      <b>Google Colab</b>
+    </td>
+    <td align="center">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="80"><br>
+      <b>Hugging Face</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Whisper_logo.svg" width="80"><br>
+      <b>Whisper AI (STT)</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Transformer_model.png" width="80"><br>
+      <b>Transformer (MT)</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Tacotron_logo.png" width="80"><br>
+      <b>Tacotron (TTS)</b>
+    </td>
+  </tr>
+</table>
+
+### Deployment and Testing tools
+<table>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"><br>
-      <b>GitHub (Repository Hosting)</b>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80"><br>
+      <b>Google Cloud</b>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"><br>
@@ -88,6 +114,8 @@ All the present day voice translation tools available in the market often lose t
     </td>
   </tr>
 </table>
+
+
 
 
 
