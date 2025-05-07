@@ -7,7 +7,7 @@ StellarSpeech is a real-time voice translation application, using AI-powered spe
 All the present day voice translation tools available in the market often lose the original speakers tone, pitch and emotional context, this ultimately results in a robotic and unnatural output. This effects the quality of the communication especially when the speaker is emotional or expressive. Our concept aims to solve this problem by preserving the speaker's original tone and emotional cues in the translated voice output. 
 <h2>Tech Stack & Tools Used</h2>
 
-### Frontend
+## Frontend
 <table>
   <tr>
     <td align="center">
@@ -33,33 +33,7 @@ All the present day voice translation tools available in the market often lose t
   </tr>
 </table>
 
-### Backend
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"><br>
-      <b>Node.js</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"><br>
-      <b>Express.js</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"><br>
-      <b>MongoDB</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80"><br>
-      <b>WebSockets</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80"><br>
-      <b>Firebase</b>
-    </td>
-  </tr>
-</table>
-
-### AI/ML & Speech Processing
+## AI/ML & Speech Processing
 <table>
   <tr>
     <td align="center">
@@ -75,7 +49,7 @@ All the present day voice translation tools available in the market often lose t
       <b>TensorFlow</b>
     </td>
     <td align="center">
-      <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" width="80"><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_SVG_Logo.svg" width="80"><br>
       <b>Google Colab</b>
     </td>
     <td align="center">
@@ -97,7 +71,29 @@ All the present day voice translation tools available in the market often lose t
   </tr>
 </table>
 
-### Deployment and Testing tools
+## Backend
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80"><br>
+      <b>Flask</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80"><br>
+      <b>SQLite</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80"><br>
+      <b>Firebase</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="80"><br>
+      <b>Ngrok (Tunnel)</b>
+    </td>
+  </tr>
+</table>
+
+## Deployment and Dev Tools
 <table>
   <tr>
     <td align="center">
@@ -110,14 +106,10 @@ All the present day voice translation tools available in the market often lose t
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"><br>
-      <b>Visual Studio Code (Code Editor)</b>
+      <b>Visual Studio Code</b>
     </td>
   </tr>
 </table>
-
-
-
-
 
 ## **Features**
 1. Real-time speech-to-text(STT) using datasets like CommonVoice, LibriSpeech
