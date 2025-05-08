@@ -80,10 +80,6 @@ All the present day voice translation tools available in the market often lose t
       <b>SQLite</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80"><br>
-      <b>Firebase</b>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="80"><br>
       <b>Ngrok (Tunnel)</b>
     </td>
