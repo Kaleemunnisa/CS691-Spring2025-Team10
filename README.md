@@ -11,10 +11,6 @@ All the present day voice translation tools available in the market often lose t
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"><br>
-      <b>React.js</b>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80"><br>
       <b>Tailwind CSS</b>
     </td>
