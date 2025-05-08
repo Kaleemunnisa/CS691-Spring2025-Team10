@@ -22,10 +22,6 @@ All the present day voice translation tools available in the market often lose t
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"><br>
       <b>CSS3</b>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"><br>
-      <b>JavaScript</b>
-    </td>
   </tr>
 </table>
 
