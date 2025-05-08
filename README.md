@@ -62,7 +62,7 @@ All the present day voice translation tools available in the market often lose t
     </td>
     <td align="center">
       <img src="" width="80"><br>
-      <b>Fine-tuned Wav2Vec2 (MT)</b>
+      <b>Fine-tuned Wav2Vec2 (Emotion)</b>
     </td>
 
   </tr>
