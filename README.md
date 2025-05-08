@@ -50,16 +50,21 @@ All the present day voice translation tools available in the market often lose t
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Whisper_logo.svg" width="80"><br>
-      <b>Whisper AI (STT)</b>
+      <b>Wav2Vec2 (STT)</b>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Transformer_model.png" width="80"><br>
-      <b>Transformer (MT)</b>
+      <b>Seq2Seq LSTM (MT)</b>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Tacotron_logo.png" width="80"><br>
-      <b>Tacotron (TTS)</b>
+      <b>gTTS API (TTS)</b>
     </td>
+    <td align="center">
+      <img src="" width="80"><br>
+      <b>Fine-tuned Wav2Vec2 (MT)</b>
+    </td>
+
   </tr>
 </table>
 
