@@ -91,12 +91,7 @@ All the present day voice translation tools available in the market often lose t
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"><br>
       <b>GitHub</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80"><br>
-      <b>Google Cloud</b>
-    </td>
-    <td align="center">
+        <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"><br>
       <b>Visual Studio Code</b>
     </td>
